@@ -1,2 +1,2 @@
 # hello-world
-Ideas go here.
+Brignt ideas go here.  Dumb ones do not.
